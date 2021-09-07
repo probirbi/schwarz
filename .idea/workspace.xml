@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5a8e65d-9190-4e81-8c41-a9dac2a2205c" name="Default Changelist" comment="First Commit of Coding Challenge">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/schwarz/META-INF/schwarz.kotlin_module" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="G:\interview_exercise\schwarz\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xdltGa9h2sEQByrnJZRraTSW45" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../New folder/schwarz/schwarz" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Application.CheckArrayPosition">
+    <configuration name="CheckArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckArray" />
+      <module name="schwarz" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckArrayPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckArrayPosition" />
+      <module name="schwarz" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CheckArrayPosition" />
+        <item itemvalue="Application.CheckArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5a8e65d-9190-4e81-8c41-a9dac2a2205c" name="Default Changelist" comment="" />
+      <created>1630693059485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630693059485</updated>
+      <workItem from="1630693067496" duration="2223000" />
+      <workItem from="1631012864233" duration="4662000" />
+      <workItem from="1631027047748" duration="971000" />
+      <workItem from="1631028232605" duration="1885000" />
+      <workItem from="1631031411372" duration="279000" />
+      <workItem from="1631032707255" duration="636000" />
+    </task>
+    <task id="LOCAL-00001" summary="First Commit of Coding Challenge">
+      <created>1631024548586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631024548586</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Commit of Coding Challenge">
+      <created>1631025010141</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631025010141</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First Commit of Coding Challenge">
+      <created>1631030657650</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631030657650</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="First Commit of Coding Challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit of Coding Challenge" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1631030656242">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.-434.1600.1160@0.0.1366.728" timestamp="1631030656242" />
+    <state x="129" y="54" key="DiffContextDialog" timestamp="1631026601211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="54" key="DiffContextDialog/0.0.1366.728/1366.-434.1600.1160@0.0.1366.728" timestamp="1631026601211" />
+    <state x="463" y="96" key="FileChooserDialogImpl" timestamp="1631028382485">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="96" key="FileChooserDialogImpl/0.0.1366.728/1366.-434.1600.1160@0.0.1366.728" timestamp="1631028382485" />
+    <state width="683" height="178" key="GridCell.Tab.0.bottom" timestamp="1631031307646">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="683" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-434.1600.1160@0.0.1366.728" timestamp="1631031307646" />
+    <state width="683" height="178" key="GridCell.Tab.0.center" timestamp="1631031307645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="683" height="178" key="GridCell.Tab.0.center/0.0.1366.728/1366.-434.1600.1160@0.0.1366.728" timestamp="1631031307645" />
+    <state width="683" height="178" key="GridCell.Tab.0.left" timestamp="1631031307645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="683" height="178" key="GridCell.Tab.0.left/0.0.1366.728/1366.-434.1600.1160@0.0.1366.728" timestamp="1631031307645" />
+    <state width="683" height="178" key="GridCell.Tab.0.right" timestamp="1631031307645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="683" height="178" key="GridCell.Tab.0.right/0.0.1366.728/1366.-434.1600.1160@0.0.1366.728" timestamp="1631031307645" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1631031693367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728/1366.-434.1600.1160@0.0.1366.728" timestamp="1631031693367" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1631030895337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-434.1600.1160@0.0.1366.728" timestamp="1631030895337" />
+    <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631026586973">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.-434.1600.1160@0.0.1366.728" timestamp="1631026586973" />
+  </component>
+</project>
